@@ -7344,7 +7344,7 @@
 				(hide yes)
 			)
 		)
-		(property "APPLICATION" ""
+		(property "FT Rotation Offset" "-90"
 			(at 165.1 143.51 0)
 			(effects
 				(font
@@ -8500,7 +8500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
+		(property "FT Rotation Offset" "90"
 			(at 105.41 208.28 0)
 			(effects
 				(font
@@ -37039,7 +37039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
+		(property "FT Rotation Offset" "90"
 			(at 299.72 182.88 0)
 			(effects
 				(font

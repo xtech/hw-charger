@@ -7570,6 +7570,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "-90"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0256385e-1290-4513-bf7d-cb859052deb6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/06123601-78a7-45a5-9135-d0172885f72e/002f5ff7-5968-4d54-b543-76f4ad65e974")
 		(sheetname "/Charger/")
 		(sheetfile "Charger.kicad_sch")
@@ -10186,6 +10199,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "246838f1-8c57-4a22-8eaa-750d2de534a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2dd6d674-e568-4e0f-a099-5c56e6a654d9")
 			(effects
 				(font
 					(size 1 1)
@@ -50619,6 +50645,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "90"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa586dee-162b-424d-87a8-53c8d24d82cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/3dd6c1e5-9a9f-42a2-b688-d29d29cfef84")
 		(sheetname "/")
 		(sheetfile "hw-charger.kicad_sch")
@@ -56323,6 +56362,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "-90"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9fbbfa63-1d38-4a0d-9d99-d950168ce073")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/faf34055-2462-46f2-824a-8f25abdb403b")
 		(sheetname "/")
 		(sheetfile "hw-charger.kicad_sch")
@@ -57159,6 +57211,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2cf8777c-f4ab-4151-9c33-7693b5b13aa8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08b30760-d4dd-401e-9ade-eb146ca755e1")
 			(effects
 				(font
 					(size 1 1)
@@ -58165,6 +58230,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a1fb732b-557f-4c07-bf58-20b4c09bb0eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7a7cc7c-dbd6-4596-b3e5-e0c69aad83d5")
 			(effects
 				(font
 					(size 1 1)
@@ -63500,6 +63578,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "734c1fd2-7d10-4067-94eb-3e0dacd2d0fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/21df2a81-0960-4cd3-8975-bf5641660282")
 		(sheetname "/")
@@ -66258,6 +66349,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d3c8e85b-37ad-4176-8b9a-9ae220337cad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "-90"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "480d45a1-3bea-43b9-8c4d-2c11e7ea6a8d")
 			(effects
 				(font
 					(size 1 1)
@@ -72169,7 +72273,7 @@
 		(path "/1c3e2a08-02f6-411b-a14e-8aaebd9734ba")
 		(sheetname "/")
 		(sheetfile "hw-charger.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 23 -3.5)
 			(end 22 -3.5)
@@ -91776,6 +91880,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6a384085-8023-4a7b-8686-983c7d7724b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/35230f9a-8ad3-44a8-90b6-6facbe94e6c2")
 		(sheetname "/")
@@ -97769,7 +97886,7 @@
 		(path "/82612228-fb40-4f3f-870b-34b0ec650466")
 		(sheetname "/")
 		(sheetfile "hw-charger.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 23 -3.5)
 			(end 22 -3.5)

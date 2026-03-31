@@ -2,6 +2,7 @@ filters:
   - name: apply_jlc_rotation
     comment: 'Adjust rotation for JLC'
     type: rot_footprint
+    rot_fields: ["FT Rotation Offset", "JLCPCB Rotation Offset", "JLCRotOffset"]
     extend: false
     invert_bottom: true
     negative_bottom: false

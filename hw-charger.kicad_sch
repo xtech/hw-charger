@@ -5430,7 +5430,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1c3e2a08-02f6-411b-a14e-8aaebd9734ba")
 		(property "Reference" "F1"
 			(at 92.71 139.7 90)
@@ -6031,7 +6031,7 @@
 				(hide yes)
 			)
 		)
-		(property "Height" ""
+		(property "FT Rotation Offset" "180"
 			(at 226.06 66.04 0)
 			(effects
 				(font
@@ -6910,7 +6910,7 @@
 				(hide yes)
 			)
 		)
-		(property "APPLICATION" ""
+		(property "FT Rotation Offset" "90"
 			(at 261.62 210.82 0)
 			(effects
 				(font
@@ -7609,7 +7609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
+		(property "FT Rotation Offset" "180"
 			(at 66.04 124.46 0)
 			(effects
 				(font
@@ -7990,7 +7990,7 @@
 				(hide yes)
 			)
 		)
-		(property "APPLICATION" ""
+		(property "FT Rotation Offset" "90"
 			(at 261.62 201.93 0)
 			(effects
 				(font
@@ -9881,7 +9881,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "82612228-fb40-4f3f-870b-34b0ec650466")
 		(property "Reference" "F2"
@@ -11180,7 +11180,7 @@
 				(hide yes)
 			)
 		)
-		(property "APPLICATION" ""
+		(property "FT Rotation Offset" "-90"
 			(at 261.62 193.04 0)
 			(effects
 				(font
@@ -14917,7 +14917,7 @@
 				(hide yes)
 			)
 		)
-		(property "APPLICATION" ""
+		(property "FT Rotation Offset" "-90"
 			(at 261.62 184.15 0)
 			(effects
 				(font
