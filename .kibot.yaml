@@ -179,6 +179,14 @@ outputs:
       rotate_y: 1
       ray_tracing: false
 
+  - name: 'step_3d'
+    comment: 'Exports the PCB as a 3D STEP model for universal use.'
+    type: 'step'
+    dir: 'release'
+    options:
+      metric_units: true
+      output: '%f.%x'
+
   - name: JLCPCB
     comment: ZIP file for JLCPCB
     type: compress
