@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "local_Connectors")(type "KiCad")(uri "${KIPRJMOD}/components/extern/footprints/local_Connectors.pretty")(options "")(descr ""))
+  (lib (name "xtech")(type "KiCad")(uri "${KIPRJMOD}/components/xtech/footprints/xtech.pretty")(options "")(descr ""))
+  (lib (name "local_CHARGER")(type "KiCad")(uri "${KIPRJMOD}/components/extern/footprints/local_CHARGER.pretty")(options "")(descr ""))
+  (lib (name "local_FUSE")(type "KiCad")(uri "${KIPRJMOD}/components/extern/footprints/local_FUSE.pretty")(options "")(descr ""))
+)
