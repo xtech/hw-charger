@@ -1,4 +1,4 @@
-(footprint "Dummy"
+(footprint "SNT-100-BL-H"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "Dummy"
+	(property "Value" "SNT-100-BL-H"
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -87,4 +87,15 @@
 		)
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/components/extern/3dmodels/SNT-100-BL-G.step"
+		(offset
+			(xyz 0 0 2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "xtech")(type "KiCad")(uri "${KIPRJMOD}/components/xtech/symbols/xtech.kicad_sym")(options "")(descr ""))
   (lib (name "local_CHARGER")(type "KiCad")(uri "${KIPRJMOD}/components/extern/symbols/local_CHARGER.kicad_sym")(options "")(descr ""))
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/components/easyeda2kicad.kicad_sym")(options "")(descr ""))
 )
